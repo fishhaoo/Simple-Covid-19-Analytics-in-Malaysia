@@ -1,6 +1,6 @@
 ---
 title: "CovidAnalysis"
-author: "Shamalan"
+author: "Wei Xiang"
 date: "11/29/2020"
 output:
   pdf_document: default

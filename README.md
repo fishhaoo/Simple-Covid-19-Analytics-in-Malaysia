@@ -1,4 +1,6 @@
 # Simple-Covid-19-Analytics-in-Malaysia
+Assignment
+
 This was an open topic assignment assigned during the pandemic and analysed since the start of the pandemic till November 2020. 
 The analytics on this topic was done using R with some analytics methods like : 
 1. Descriptive analysis
